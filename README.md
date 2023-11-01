@@ -1,15 +1,16 @@
-### Hey there 👋
+### Hey there 👋 Iam Hudaif
+<br>
 
-<!--
+<!-- 
 **hudaifc/hudaifc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 # 💫 About Me:
 🎯 Currently Focusing on React.js.<br>📬 Reach Me at hudaifofficial@gmail.com
 
 
-## 🌐 Socials:
+<!-- ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hudaiif) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hudaifc) 
 
 # 💻 Tech Stack:
@@ -23,6 +24,5 @@ Here are some ideas to get you started:
 [![](https://gtce.itsvg.in/api?username=hudaifc)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hudaifc&icon=0&color=3)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=hudaifc&icon=0&color=3)](https://visitcount.itsvg.in) -->
 
