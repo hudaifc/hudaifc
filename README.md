@@ -7,7 +7,10 @@
 Here are some ideas to get you started: -->
 
 # 💫 About Me:
-🎯 Currently Focusing on Angular.<br>📬 Reach Me at hudaifofficial@gmail.com
+🎯 Currently Focusing on **Angular**
+<br>📬 Reach Me at **hudaifofficial@gmail.com**
+💬 Ask me about **Javascript**
+
 
 
 <!-- ## 🌐 Socials:
